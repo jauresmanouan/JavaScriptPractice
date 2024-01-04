@@ -46,6 +46,7 @@ function comparaisonRecursive(obj1, obj2) {
             return false;
     }
 }
+
 const objet1 = [1, 3, 4];
 const objet2 = [1, 2, 4];
 
