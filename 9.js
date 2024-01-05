@@ -19,8 +19,6 @@ function prendFonction(rappel) {
 
 function maFonctionDeRappel() {
     console.log("La fonction de rappel a été exécutée !");
-    console.log("La fonction de rappel a été exécutée !");
-    console.log("La fonction de rappel a été exécutée !");
 }
 
 prendFonction(maFonctionDeRappel);
